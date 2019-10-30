@@ -1,0 +1,12 @@
+# Virtualenv (highly recommended)
+venv/
+
+# Generated file directory
+# We don't want to keep these
+jsons/
+
+# We could keep this, but I don't wanna
+instagram-scraper.log
+
+# Contains secrets
+gcloud_vision_api.json
